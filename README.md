@@ -44,7 +44,8 @@ Para ejecutar este proyecto, necesitarás las siguientes librerías de Python:
 
 El proyecto está diseñado como un *notebook* de Colab, lo que facilita su ejecución en el entorno de Google Colaboratory.
 
-1.  Abre el archivo `TelecomX_LATAM.ipynb` en Google Colab (si el archivo actual es un PDF, deberás convertirlo o subirlo como un archivo `.ipynb`).
+1.  Abre el archivo `TelcomX_LATAM_DataScienceChallenge2
+.ipynb` en Google Colab (si el archivo actual es un PDF, deberás convertirlo o subirlo como un archivo `.ipynb`).
 2.  Asegúrate de tener instaladas todas las dependencias mencionadas.
 3.  Ejecuta las celdas del *notebook* secuencialmente para replicar el análisis de datos.
 
